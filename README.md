@@ -64,5 +64,5 @@ The system can set timers based on spoken commands. For example, saying "Set a t
 Credits
 - Chat
 - Claude
-- https://www.youtube.com/watch?v=CMrHM8a3hqw&ab_channel=Simplilearn
+- [https://www.youtube.com/watch?v=CMrHM8a3hqw&ab_channel=Simplilearn](https://spacy.io/usage/spacy-101#annotations-pos-deps)
 
